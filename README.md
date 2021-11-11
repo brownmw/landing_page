@@ -1,0 +1,1 @@
+Concept of this project is to generate an html and css file to mimick the webpage layout shown in expected_layout.png. The colours_fonts.png gives the styling information that will be used.
